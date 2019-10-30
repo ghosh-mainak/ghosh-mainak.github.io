@@ -17,10 +17,9 @@ Education
 Academic experience
 ======
 * Master's Thesis: Multilingual Opinion Mining on Social Media Comments Using Unsupervised Neural Clustering Methods 
-  * <a href></a>
-  * Social Computing Research Group, Technical Universities of Munich
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * [Social Computing Research Group, Technical Universities of Munich](https://www.social.in.tum.de/en/group/)
+  * Supervisor: [PD Dr. Georg Groh](https://www.social.in.tum.de/en/team/georggroh/)
+  * Advisor: [M.Sc. Gerhard Hagerer](https://www.social.in.tum.de/en/team/gerhardhagerer/)
 
 * Fall 2015: Research Assistant
   * Github University
