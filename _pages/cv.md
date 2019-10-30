@@ -40,7 +40,12 @@ Academic experience
   * Indian Statistical Institute, Kolkata, India
   * Project: Hardware and Software Implementations of eStream (the ECRYPT Stream Cipher Project) Final Portfolio Profile 2 Stream Ciphers (Trivium, Grain, Mickey)
   * Supervisor: [Prof. Subhamoy Maitra](https://www.isical.ac.in/~subho/)
-  
+ 
+
+Industrial experience
+======
+I was software engineer in Acclaris Business Solutions Pvt Ltd (currently company of Willis Towers Watson) from 2014 to 2017 in Kolkata, India. Presently, I also play the role of data engineer in IDS GmbH - Analysis and Reporting Services (Company of Allianz) in Munich, Germany.
+
 Skills
 ======
 * Skill 1
