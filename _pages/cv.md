@@ -13,7 +13,7 @@ Education
 * B.E. in Computer Science and Technology, Indian Institute of Engineering, Science and Technology (IIEST), 2014
 * M.Sc. in Data Engineering and Analytics, Technical University of Munich, Germany, 2019 (expected)
 
-Academic experience
+Academic Experience
 ======
 * Master's Thesis: Multilingual Opinion Mining on Social Media Comments Using Unsupervised Neural Clustering Methods 
   * [Social Computing Research Group, Technical Universities of Munich](https://www.social.in.tum.de/en/group/)
@@ -41,9 +41,9 @@ Academic experience
   * Supervisor: [Prof. Subhamoy Maitra](https://www.isical.ac.in/~subho/)
  
 
-Industrial experience
+Industrial Experience
 ======
-I was software engineer in Acclaris Business Solutions Pvt Ltd (currently company of Willis Towers Watson) from 2014 to 2017 in Kolkata, India. Presently, I also play the role of data engineer in IDS GmbH - Analysis and Reporting Services (Company of Allianz) in Munich, Germany.
+I was a software engineer in Acclaris Business Solutions Pvt Ltd (currently company of Willis Towers Watson) from 2014 to 2017 in Kolkata, India. Presently, I also play the role of data engineer in IDS GmbH - Analysis and Reporting Services (Company of Allianz) in Munich, Germany.
 
 Skills
 ======
