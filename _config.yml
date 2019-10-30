@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mainak Ghosh, M.SC."
+title                    : "M.Sc. Mainak Ghosh"
 title_separator          : "-"
-name                     : &name "Mainak Ghosh"
+name                     : &name "M.Sc. Mainak Ghosh"
 description              : &description "personal description"
 url                      : https://munailisa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
