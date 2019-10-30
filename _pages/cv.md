@@ -21,10 +21,16 @@ Academic experience
   * Supervisor: [PD Dr. Georg Groh](https://www.social.in.tum.de/en/team/georggroh/)
   * Advisor: [M.Sc. Gerhard Hagerer](https://www.social.in.tum.de/en/team/gerhardhagerer/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Member of NLP Lab
+  * [Social Computing Research Group, Technical Universities of Munich](https://www.social.in.tum.de/en/group/)
+  * Project: Comparing Neural Semantic Clustering Methods for Opinion Mining
+  * Supervisor: [PD Dr. Georg Groh](https://www.social.in.tum.de/en/team/georggroh/)
+  * Advisor: [M.Sc. Gerhard Hagerer](https://www.social.in.tum.de/en/team/gerhardhagerer/)
+  
+* Application Project: Sentiment Analysis on Developers’ Reaction to Change in API
+  * [Information Systems, Technical Universities of Munich](https://www.i17.in.tum.de/en/home/)
+  * Supervisor: [Prof. Dr. Helmut Krcmar](https://www.i17.in.tum.de/index.php?id=204&L=1)
+  * Advisor: [M.Sc. David Soto Setzke](https://www.i17.in.tum.de/en/team/soto-setzke-david/)
   
 Skills
 ======
