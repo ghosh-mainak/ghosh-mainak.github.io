@@ -14,10 +14,11 @@ Education
 * B.E. in Computer Science and Technology, Indian Institute of Engineering, Science and Technology (IIEST), 2014
 * M.Sc. in Data Engineering and Analytics, Technical University of Munich, Germany, 2019 (expected)
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Master's Thesis: Multilingual Opinion Mining on Social Media Comments Using Unsupervised Neural Clustering Methods 
+  * <a href></a>
+  * Social Computing Research Group, Technical Universities of Munich
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
