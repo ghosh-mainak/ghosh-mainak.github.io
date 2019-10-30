@@ -31,6 +31,15 @@ Academic experience
   * [Information Systems, Technical Universities of Munich](https://www.i17.in.tum.de/en/home/)
   * Supervisor: [Prof. Dr. Helmut Krcmar](https://www.i17.in.tum.de/index.php?id=204&L=1)
   * Advisor: [M.Sc. David Soto Setzke](https://www.i17.in.tum.de/en/team/soto-setzke-david/)
+ 
+* Bachelor's Thesis: Predicting Stability of a Chemical Reaction using Model-Driven Classification 
+  * Indian Institute of Engineering, Science and Technology (IIEST)
+  * Supervisor: [Associate Prof. Somnath Pal](https://scholar.google.com/citations?user=R74wlzoAAAAJ&hl=en)
+ 
+* Summer 2013: Research Intern
+  * Indian Statistical Institute, Kolkata, India
+  * Project: Hardware and Software Implementations of eStream (the ECRYPT Stream Cipher Project) Final Portfolio Profile 2 Stream Ciphers (Trivium, Grain, Mickey)
+  * Supervisor: [Prof. Subhamoy Maitra](https://www.isical.ac.in/~subho/)
   
 Skills
 ======
