@@ -48,31 +48,16 @@ I was software engineer in Acclaris Business Solutions Pvt Ltd (currently compan
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Python, JAVA, C, C++ SQL, PL/SQL, R, Javascript
+* Frameworks
+  * PyTorch, TensorFlow, JPA, JSF, RichFaces, J2EE, Jasper Report Technology, Angular JS, Python-based Flask
+* Tools
+  * Google Colab, Microsoft Visual Studio Code, PyCharm, Eclipse, JBoss Developer Studio,JDeveloper Studio, JIRA, Confluence, PL/SQL Developer, Universal Automation Controller
 
-Publications
+Awards and Honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Ranked 4 out of 60 students in bachelor's degree
+* Recipient of a certificate entitled Cognizant Certified Student for successful clearance of assessment on IT FOUNDATION SKILLS, Kolkata, India
+* Awarded at the Mathematical Competence Test, organized by, Association for Improvement of Mathematics Teaching (AIMT), Kolkata, India
+* Certificate of Merit: Award for scoring full marks in Physical Science and Mechanics in Secondary Examination, Kolkata, India
