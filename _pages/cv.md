@@ -61,3 +61,11 @@ Awards and Honors
 * Recipient of a certificate entitled Cognizant Certified Student for successful clearance of assessment on IT FOUNDATION SKILLS, Kolkata, India
 * Awarded at the Mathematical Competence Test, organized by, Association for Improvement of Mathematics Teaching (AIMT), Kolkata, India
 * Certificate of Merit: Award for scoring full marks in Physical Science and Mechanics in Secondary Examination, Kolkata, India
+
+
+Social Activities
+======
+* Summer 2018: Minga Mentor
+  * Technical University of Munich, Germany
+  * Job: Guided incoming international students
+* I was a member of Paschim Banga Vigyan ManchaMancha (West Bengal’s Science Forum), the largest people’s science organization in India. I was involved in propagating scientific awareness in West Bengal, India.
