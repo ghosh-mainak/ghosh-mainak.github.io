@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M.SC."
+title                    : "Mainak Ghosh / M.SC."
 title_separator          : "-"
 name                     : &name "Mainak Ghosh"
 description              : &description "personal description"
