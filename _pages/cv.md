@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -7,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+This page mainly talks about my academic experince. However, please see my full CV to know academic and industrial experiment both in detail.
 Education
 ======
 * B.E. in Computer Science and Technology, Indian Institute of Engineering, Science and Technology (IIEST), 2014
@@ -30,8 +31,13 @@ Academic Experience
   * [Information Systems, Technical Universities of Munich](https://www.i17.in.tum.de/en/home/)
   * Supervisor: [Prof. Dr. Helmut Krcmar](https://www.i17.in.tum.de/index.php?id=204&L=1)
   * Advisor: [M.Sc. David Soto Setzke](https://www.i17.in.tum.de/en/team/soto-setzke-david/)
+  
+* Winter 2017: Student Research Assistant
+  * [Munich Center for the Economics of Aging (MEA), Max Planck Institute for Social Law and Social Policy] (http://www.mea.mpisoc.mpg.de/index.php?id=213&L=2)
+  * Project: Analysing Quality of Questionnaires of [SHARE - Survey of Health, Ageing and Retirement in Europe](http://www.share-eric.eu/home0.html) 
+  * Advisor: [Jeny Tony Philip](https://www.researchgate.net/profile/Jeny_Tony_Philip)
  
-* Bachelor's Thesis: Predicting Stability of a Chemical Reaction using Model-Driven Classification 
+* Bachelor's Thesis: Predicting Stability of a Chemical Reaction Using Model-Driven Classification 
   * Indian Institute of Engineering, Science and Technology (IIEST)
   * Supervisor: [Associate Prof. Somnath Pal](https://scholar.google.com/citations?user=R74wlzoAAAAJ&hl=en)
  
@@ -48,7 +54,7 @@ I was a software engineer in Acclaris Business Solutions Pvt Ltd (currently comp
 Skills
 ======
 * Programming Language
-  * Python, JAVA, C, C++ SQL, PL/SQL, R, Javascript
+  * Python, Java, C, C++ SQL, PL/SQL, R, JavaScript
 * Frameworks
   * PyTorch, TensorFlow, JPA, JSF, RichFaces, J2EE, Jasper Report Technology, Angular JS, Python-based Flask
 * Tools
