@@ -11,9 +11,9 @@ title                    : "Mainak Ghosh"
 title_separator          : "-"
 name                     : &name "Mainak Ghosh"
 description              : &description "personal description"
-url                      : https://munailisa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ghosh-mainak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "munailisa/munailisa.github.io"
+repository               : "ghosh-mainak/ghosh-mainak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
