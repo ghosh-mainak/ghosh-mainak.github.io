@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-This page primarily talks about my academic experiences. However, please see the full CV to know my industrial experiences in detail.
 
 Education
 ======
