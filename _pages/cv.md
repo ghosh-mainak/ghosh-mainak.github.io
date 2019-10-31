@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-This page mainly talks about my academic experince. However, please see my full CV to know academic and industrial experiment both in detail.
+This page primarily talks about my academic experiences. However, please see the full CV to know my industrial experiences in detail.
 
 Education
 ======
