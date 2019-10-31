@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 This page mainly talks about my academic experince. However, please see my full CV to know academic and industrial experiment both in detail.
+
 Education
 ======
 * B.E. in Computer Science and Technology, Indian Institute of Engineering, Science and Technology (IIEST), 2014
@@ -33,7 +34,7 @@ Academic Experience
   * Advisor: [M.Sc. David Soto Setzke](https://www.i17.in.tum.de/en/team/soto-setzke-david/)
   
 * Winter 2017: Student Research Assistant
-  * [Munich Center for the Economics of Aging (MEA), Max Planck Institute for Social Law and Social Policy] (http://www.mea.mpisoc.mpg.de/index.php?id=213&L=2)
+  * [Munich Center for the Economics of Aging (MEA), Max Planck Institute for Social Law and Social Policy](http://www.mea.mpisoc.mpg.de/index.php?id=213&L=2)
   * Project: Analysing Quality of Questionnaires of [SHARE - Survey of Health, Ageing and Retirement in Europe](http://www.share-eric.eu/home0.html) 
   * Advisor: [Jeny Tony Philip](https://www.researchgate.net/profile/Jeny_Tony_Philip)
  
@@ -43,10 +44,9 @@ Academic Experience
  
 * Summer 2013: Research Intern
   * Indian Statistical Institute, Kolkata, India
-  * Project: Hardware and Software Implementations of eStream (the ECRYPT Stream Cipher Project) Final Portfolio Profile 2 Stream Ciphers (Trivium, Grain, Mickey)
+  * Project: Hardware and Software Implementations of [eStream (the ECRYPT Stream Cipher Project)](https://www.ecrypt.eu.org/stream/) Final Portfolio Profile 2 Stream Ciphers (Trivium, Grain, Mickey)
   * Supervisor: [Prof. Subhamoy Maitra](https://www.isical.ac.in/~subho/)
  
-
 Industrial Experience
 ======
 I was a software engineer in Acclaris Business Solutions Pvt Ltd (currently company of Willis Towers Watson) from 2014 to 2017 in Kolkata, India. Presently, I also play the role of data engineer in IDS GmbH - Analysis and Reporting Services (Company of Allianz) in Munich, Germany.
@@ -66,7 +66,6 @@ Awards and Honors
 * Recipient of a certificate entitled Cognizant Certified Student for successful clearance of assessment on IT FOUNDATION SKILLS, Kolkata, India
 * Awarded at the Mathematical Competence Test, organized by, Association for Improvement of Mathematics Teaching (AIMT), Kolkata, India
 * Certificate of Merit: Award for scoring full marks in Physical Science and Mechanics in Secondary Examination, Kolkata, India
-
 
 Social Activities
 ======
