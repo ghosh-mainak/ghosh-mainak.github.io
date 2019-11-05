@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mainak.ghosh@tum.de"
-  researchgate     : "https://www.researchgate.net/profile/Mainak_Ghosh12"
+  researchgate     : #"https://www.researchgate.net/profile/Mainak_Ghosh12"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "munailisa"
+  github           : "ghoshmainak"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/mainak-ghosh-tum/"
+  linkedin         :  "mainak-ghosh-tum"
   orcid            : #"http://orcid.org/0000-0003-1176-4236"
   pinterest        :
   soundcloud       :
