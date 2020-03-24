@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Max Planck Institute for Innovation and Competition.
+I am a Ph.D. candidate at Max Planck Institute for Innovation and Competition. My primary research focuses on semantic analysis of text, measures of proximity and latent information extraction. Besides, I am also interested in machine learning, neural models, natural language processing, behavioral economics, sentiment analysis. 
