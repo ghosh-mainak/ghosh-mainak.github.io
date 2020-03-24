@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
+* M.Sc. in Data Engineering and Analytics, Technical University of Munich, Germany, 2019
 * B.E. in Computer Science and Technology, Indian Institute of Engineering, Science and Technology (IIEST), 2014
-* M.Sc. in Data Engineering and Analytics, Technical University of Munich, Germany, 2019 (expected)
 
 Academic Experience
 ======
