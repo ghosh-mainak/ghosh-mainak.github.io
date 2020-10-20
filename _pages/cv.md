@@ -16,15 +16,15 @@ Education
 Academic Experience
 ======
 * Master's Thesis: Multilingual Opinion Mining on Social Media Comments Using Unsupervised Neural Clustering Methods 
-  * [Social Computing Research Group, Technical Universities of Munich](https://www.social.in.tum.de/en/group/)
-  * Supervisor: [PD Dr. Georg Groh](https://www.social.in.tum.de/en/team/georggroh/)
-  * Advisor: [M.Sc. Gerhard Hagerer](https://www.social.in.tum.de/en/team/gerhardhagerer/)
+  * [Social Computing Research Group, Technical Universities of Munich](https://www.in.tum.de/social/group/)
+  * Supervisor: [PD Dr. Georg Groh](https://www.in.tum.de/social/team/georggroh/)
+  * Advisor: [M.Sc. Gerhard Hagerer](https://www.in.tum.de/social/ghagerer/)
 
 * Summer 2019: Member of NLP Lab
-  * [Social Computing Research Group, Technical Universities of Munich](https://www.social.in.tum.de/en/group/)
+  * [Social Computing Research Group, Technical Universities of Munich](https://www.in.tum.de/social/group/)
   * Project: Comparing Neural Semantic Clustering Methods for Opinion Mining
-  * Supervisor: [PD Dr. Georg Groh](https://www.social.in.tum.de/en/team/georggroh/)
-  * Advisor: [M.Sc. Gerhard Hagerer](https://www.social.in.tum.de/en/team/gerhardhagerer/)
+  * Supervisor: [PD Dr. Georg Groh](https://www.in.tum.de/social/team/georggroh/)
+  * Advisor: [M.Sc. Gerhard Hagerer](https://www.in.tum.de/social/ghagerer/)
   
 * Application Project: Sentiment Analysis on Developers’ Reaction to Change in API
   * [Information Systems, Technical Universities of Munich](https://www.i17.in.tum.de/en/home/)
